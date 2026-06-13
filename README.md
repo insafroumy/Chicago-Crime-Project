@@ -79,22 +79,6 @@ The analysis covers six core topics: district-level comparisons, yearly crime tr
 - **Key finding:** Theft exhibits a clear **annual seasonal cycle**, with a peak-to-trough amplitude of approximately **6,236 crimes/month**
 ---
  
-## 🚀 How to Run
- 
-1. Clone the repository:
-```bash
-git clone https://github.com/insafroumy/Chicago-Crime-Project.git
-```
- 
-2. Open `Chicago_Crime.ipynb` in **Google Colab** or **Jupyter Notebook**
-3. Mount your Google Drive and ensure the dataset ZIP file is placed at:
-```
-MyDrive/AXSOSACADEMY/AXSOSACADEMY/AdvancedML-06/Week22/Data/Chicago_Crime_2001-2022.zip
-```
- 
-4. Run all cells in order
----
- 
 ## 📁 Repository Structure
  
 ```
